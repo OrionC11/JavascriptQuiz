@@ -38,6 +38,22 @@ The following animation demonstrates the application functionality:
 
 ![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/04-web-apis-homework-demo.gif)
 
+## Screenshots
+
+![This is the home page](./assets/images/home.png)
+![The first question](./assets/images/question1.png)
+![The second question](./assets/images/question2.png)
+![The third question](./assets/images/question3.png)
+![The fourth question](./assets/images/question4.png)
+![The fifth question](./assets/images/question5.png)
+![A screenshot of the end screen](./assets/images/endingscreen.png)
+![A screenshot of the Highscores Screen](./assets/images/High%20Scores%20Screen.png)
+![A screenshot of the timer](./assets/images/timer.png)
+
+## Links 
+
+
+
 ## Grading Requirements
 
 > **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
