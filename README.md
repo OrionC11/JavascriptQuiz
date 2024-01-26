@@ -52,7 +52,9 @@ The following animation demonstrates the application functionality:
 
 ## Links 
 
+Link to Github Repository: (https://github.com/OrionC11/JavascriptQuiz)
 
+Link to Deployed Web Application: (https://orionc11.github.io/JavascriptQuiz/)
 
 
 ## Grading Requirements
