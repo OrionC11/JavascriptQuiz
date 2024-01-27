@@ -51,6 +51,7 @@ h1 {
         
 #correctness {
     color: #888888;
+    font-size: 24px;
     transition: opacity 1.5s ease-in-out;
 
 }
